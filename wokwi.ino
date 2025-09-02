@@ -1,3 +1,10 @@
+//Brenda Thais Ribeiro dos Santos - RM561258
+//Clara Barboza Costa -  RM561490
+//Lucas Santana Silva - RM566261
+//Pedro Henrique Lamin Rodrigues - RM566379
+
+
+
 #include <WiFi.h>
 #include "DHT.h"
 #include <HTTPClient.h>
